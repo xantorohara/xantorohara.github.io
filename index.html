@@ -3,35 +3,81 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title></title>
+    <style>
+        body {
+            padding: 20px;
+        }
+
+        .ref {
+            display: inline-block;
+            width: 100px;
+            height: 25px;
+            padding-top: 70px;
+            background: no-repeat top center;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            margin: 20px;
+        }
+
+    </style>
 </head>
 <body>
-TODO Xantorohara's page
+
+<a class="ref" style="background-image: url('images/64-musicbox.png')" href="/musicbox"
+   title="Digital Music Box"> Musicbox</a>
+
+<a class="ref" style="background-image: url('images/64-harmonica.png')" href="/harmonica"
+   title="Musical instruments"> Harmonica</a>
+<br/>
+
+
+<a class="ref" style="background-image: url('images/64-imagetobase64.png')" href="/webtools/imagetobase64"
+   title="Online tool: image to base64 converter">Image to base64</a>
+
+<a class="ref" style="background-image: url('images/64-htmlencoder.png')" href="/webtools/htmlencoder"
+   title="Online tool: html text entities converter">HTML encoder</a>
+
+<a class="ref" style="background-image: url('images/64-terracolorita.png');" href="/webtools/terracolorita"
+   title="Colors generator">TerraColorita</a>
+
+<br/>
+
+<a class="ref" style="background-image: url('images/64-pkmx.png')"href="/pkmx"
+   title="Library: optimal blocks layout">pkmx.js</a>
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
     (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
+        (w[c] = w[c] || []).push(function () {
             try {
-                w.yaCounter25278200 = new Ya.Metrika({id:25278200,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-            } catch(e) { }
+                w.yaCounter25278200 = new Ya.Metrika({id: 25278200,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true});
+            } catch (e) {
+            }
         });
 
         var n = d.getElementsByTagName("script")[0],
                 s = d.createElement("script"),
-                f = function () { n.parentNode.insertBefore(s, n); };
+                f = function () {
+                    n.parentNode.insertBefore(s, n);
+                };
         s.type = "text/javascript";
         s.async = true;
         s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
 
         if (w.opera == "[object Opera]") {
             d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
+        } else {
+            f();
+        }
     })(document, window, "yandex_metrika_callbacks");
 </script>
-<noscript><div><img src="//mc.yandex.ru/watch/25278200" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript>
+    <div><img src="//mc.yandex.ru/watch/25278200" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
 <!-- /Yandex.Metrika counter -->
 </body>
 </html>
