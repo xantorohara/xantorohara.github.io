@@ -25,7 +25,9 @@
             margin: 20px;
             color: white;
             text-decoration: none;
+            white-space: nowrap;
         }
+
         .ref:hover {
             text-decoration: underline;
         }
@@ -43,7 +45,7 @@
 <a class="ref" style="background-image: url('images/64-xameleon.png')" href="/xameleon">Xameleon</a>
 
 <a class="ref" style="background-image: url('images/64-xenoharmonica.png')" href="xenoharmonica"
-title="Accordion emulator">XenoHarmonica</a>
+   title="Accordion emulator">XenoHarmonica</a>
 
 <br/>
 
@@ -63,8 +65,8 @@ title="Accordion emulator">XenoHarmonica</a>
 <a class="ref" style="background-image: url('images/64-shortcut.png');" href="/webtools/resolutions"
    title="List of multiple resolutions in the most popular proportions">Resolutions</a>
 
-<a class="ref" style="background-image: url('images/64-en.png');" href="/en"
-   title="English grammar index">English</a>
+<a class="ref" style="background-image: url('images/64-led-matrix-editor.png')" href="/led-matrix-editor"
+   title="Create images for LED Matrix">LED Matrix</a>
 
 <br/>
 
@@ -73,6 +75,9 @@ title="Accordion emulator">XenoHarmonica</a>
 
 <a class="ref" style="background-image: url('images/64-cli.png')" href="/sas2mongo"
    title="Sas-files to mongodb converter">sas2mongo</a>
+<br/>
+<a class="ref" style="background-image: url('images/64-en.png');" href="/en"
+   title="English grammar index">English</a>
 
 
 <!-- Yandex.Metrika counter -->
@@ -80,10 +85,12 @@ title="Accordion emulator">XenoHarmonica</a>
     (function (d, w, c) {
         (w[c] = w[c] || []).push(function () {
             try {
-                w.yaCounter25278200 = new Ya.Metrika({id: 25278200,
+                w.yaCounter25278200 = new Ya.Metrika({
+                    id: 25278200,
                     clickmap: true,
                     trackLinks: true,
-                    accurateTrackBounce: true});
+                    accurateTrackBounce: true
+                });
             } catch (e) {
             }
         });
