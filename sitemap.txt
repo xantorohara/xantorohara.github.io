@@ -12,6 +12,9 @@ https://xantorohara.github.io/rocket-table/
 https://xantorohara.github.io/sas-table-explorer/
 https://xantorohara.github.io/signal-editor/
 
+https://xantorohara.github.io/spotfire-internals/
+https://xantorohara.github.io/spotfire-internals/spotfire-table-image-column/
+
 https://xantorohara.github.io/spring-field/
 https://xantorohara.github.io/spring-field/spring-boot-banner/doc/
 https://xantorohara.github.io/spring-field/spring-boot-sources/doc/
