@@ -6,83 +6,91 @@
     <style>
         html {
             height: 100%;
-
         }
 
         body {
             padding: 20px;
             background: radial-gradient(lightblue, black) center;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 14px;
         }
 
-        .ref {
+        .icons,
+        .links,
+        .links a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .links li {
+            margin: 5px;
+        }
+
+        .icons a {
             display: inline-block;
             width: 100px;
             height: 25px;
             padding-top: 70px;
             background: no-repeat top center;
             text-align: center;
-            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-            font-size: 14px;
             margin: 20px;
+            white-space: nowrap;
             color: white;
             text-decoration: none;
-            white-space: nowrap;
         }
 
-        .ref:hover {
+        .links a:hover,
+        .icons a:hover {
             text-decoration: underline;
+            cursor: pointer;
         }
 
     </style>
 </head>
 <body>
 
-<a class="ref" style="background-image: url('images/64-musicbox.png')" href="/musicbox"
-   title="Digital Music Box">MusicBox</a>
+<div class="icons">
+    <h2>Featured projects</h2>
+    <a style="background-image: url('images/64-musicbox.png')" href="/musicbox/">MusicBox</a>
+    <a style="background-image: url('images/64-harmonica.png')" href="/harmonica/">Harmonica</a>
+    <a style="background-image: url('images/64-xameleon.png')" href="/xameleon/">Xameleon</a>
+    <a style="background-image: url('images/64-xenoharmonica.png')" href="/xenoharmonica/">XenoHarmonica</a>
+    <a style="background-image: url('images/64-led-matrix-editor.png')" href="/led-matrix-editor/">LED Matrix Editor</a>
+    <a style="background-image: url('images/64-signal-editor.png')" href="/signal-editor/">Signal Editor</a>
+    <a style="background-image: url('images/64-rocket-table.png')" href="/rocket-table/">Rocket Table</a>
+</div>
 
-<a class="ref" style="background-image: url('images/64-harmonica.png')" href="/harmonica"
-   title="Musical instruments">Harmonica</a>
+<div class="links">
+    <h2>Other projects</h2>
+    <ul>
+        <li><a href="/boolex/">Boolean expression visualizer</a></li>
+        <li><a href="/datasheets/">Datasheets</a></li>
+        <li><a href="/docbook/">DocBook</a></li>
+        <li><a href="/en/">English grammar index</a></li>
+        <li><a href="/gifts/">Gifts</a></li>
+        <li><a href="/gimping/">Gimping</a></li>
+        <li><a href="/pkmx/">Optimal blocks layout</a></li>
+        <li><a href="/sas-table-explorer/">SAS Table Explorer</a></li>
 
-<a class="ref" style="background-image: url('images/64-xameleon.png')" href="/xameleon">Xameleon</a>
+        <li><a href="/spotfire-internals/">Spotfire Internals</a></li>
+        <li><a href="/spotfire-internals/spotfire-table-image-column/">Show images in Spotfire Table</a></li>
+        <li><a href="/spotfire-internals/spotfire-table-url-column/">Show URLs in Spotfire Table</a></li>
+        <li><a href="/spotfire-py-detect-page-exists/">Check that Spotfire document has a Page using Python</a></li>
+        <li><a href="/spotfire-py-detect-visualization-exists/">Check that Spotfire document has a Visualization on a Page using Python</a></li>
+        <li><a href="/spotfire-py-create-rel-on-multi-columns/">Create datatable relationships on multiple columns in Spotfire using Python</a></li>
+        <!--<li><a href="/todo/">todo</a></li>-->
 
-<a class="ref" style="background-image: url('images/64-xenoharmonica.png')" href="xenoharmonica"
-   title="Accordion emulator">XenoHarmonica</a>
+        <li><a href="/spring-field/">Spring Field</a></li>
+        <li><a href="/spring-boot-banner/doc/">Spring Boot banner</a></li>
+        <li><a href="/spring-boot-sources/doc/">Spring Boot sources</a></li>
 
-
-<a class="ref" style="background-image: url('images/64-imagetobase64.png')" href="/webtools/imagetobase64"
-   title="Online tool: image to base64 converter">Image to base64</a>
-
-<a class="ref" style="background-image: url('images/64-htmlencoder.png')" href="/webtools/htmlencoder"
-   title="Online tool: html text entities converter">HTML encoder</a>
-
-<a class="ref" style="background-image: url('images/64-shortcut.png');" href="/webtools/resolutions"
-   title="List of multiple resolutions in the most popular proportions">Resolutions</a>
-
-<a class="ref" style="background-image: url('images/64-led-matrix-editor.png')" href="/led-matrix-editor"
-   title="Create images for LED Matrix online">LED Matrix</a>
-
-<a class="ref" style="background-image: url('images/64-signal-editor.png')" href="/signal-editor"
-   title="Create signal pulse diagrams online">Signal Editor</a>
-
-<a class="ref" style="background-image: url('images/64-boolex.png')" href="/boolex"
-   title="Boolean expression visualizer">BoolEx</a>
-
-<a class="ref" style="background-image: url('images/64-pkmx.png')" href="/pkmx"
-   title="Library: optimal blocks layout">pkmx.js</a>
-
-<a class="ref" style="background-image: url('images/64-cli.png')" href="/sas2mongo"
-   title="Sas-files to mongodb converter">sas2mongo</a>
-
-<a class="ref" style="background-image: url('images/64-sas-table-explorer.png')" href="/sas-table-explorer"
-   title="*.sas7bdat files viewer">SAS Table Explorer</a>
-
-<a class="ref" style="background-image: url('images/64-rocket-table.png')" href="/rocket-table"
-   title="SAS, Spotfire and CSV viewer">Rocket Table</a>
-
-<br/>
-<a class="ref" style="background-image: url('images/64-en.png');" href="/en"
-   title="English grammar index">English</a>
-
+        <li><a href="/webtools/">Web Tools</a></li>
+        <li><a href="/webtools/imagetobase64/">Image to base64 online converter</a></li>
+        <li><a href="/webtools/htmlencoder/">HTML encoder</a></li>
+        <li><a href="/webtools/resolutions/">Nice resolutions</a></li>
+        <li><a href="/sas2mongo/">Sas-files to mongodb converter</a></li>
+    </ul>
+</div>
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript"> (function (d, w, c) {

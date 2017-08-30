@@ -24,5 +24,8 @@ https://xantorohara.github.io/spring-field/spring-boot-banner/doc/
 https://xantorohara.github.io/spring-field/spring-boot-sources/doc/
 
 https://xantorohara.github.io/webtools/
+https://xantorohara.github.io/webtools/imagetobase64/
+https://xantorohara.github.io/webtools/htmlencoder/
+https://xantorohara.github.io/webtools/resolutions/
 https://xantorohara.github.io/xameleon/
 https://xantorohara.github.io/xenoharmonica/
