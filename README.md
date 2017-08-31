@@ -17,7 +17,8 @@ https://xantorohara.github.io/spotfire-internals/spotfire-table-image-column/
 https://xantorohara.github.io/spotfire-internals/spotfire-table-url-column/
 https://xantorohara.github.io/spotfire-internals/spotfire-py-detect-page-exists/
 https://xantorohara.github.io/spotfire-internals/spotfire-py-detect-visualization-exists/
-https://xantorohara.github.io/spotfire-internals/spotfire-py-create-rel-on-multi-columns/
+https://xantorohara.github.io/spotfire-internals/spotfire-py-create-composite-relation/
+https://xantorohara.github.io/spotfire-internals/spotfire-py-create-get-remove-relation/
 
 https://xantorohara.github.io/spring-field/
 https://xantorohara.github.io/spring-field/spring-boot-banner/doc/
