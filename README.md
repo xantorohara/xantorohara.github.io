@@ -1,4 +1,11 @@
-# Projects
+# Xantorohara
+
+## Index pages
+
+- [github.com/xantorohara](https://github.com/xantorohara)
+- [xantorohara.github.io](https://xantorohara.github.io/)
+
+## Projects
 
 - [Boolex - Boolean expression visualizer](https://xantorohara.github.io/boolex/)
 - [Datasheets](https://xantorohara.github.io/datasheets/)
@@ -26,4 +33,5 @@
   - [XantoI2C](https://xantorohara.github.io/XantoI2C/)
   - [XantoKT0803](https://xantorohara.github.io/XantoKT0803/)
   - [XantoTM1637](https://xantorohara.github.io/XantoTM1637/)
+
 
