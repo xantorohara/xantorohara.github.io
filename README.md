@@ -12,6 +12,7 @@
 - [DocBook](https://xantorohara.github.io/docbook/)
 - [Gifts](https://xantorohara.github.io/gifts/)
 - [Harmonica](https://xantorohara.github.io/harmonica/)
+- [HowTo Docker](https://xantorohara.github.io/howto-docker/)
 - [HowTo Gimp](https://xantorohara.github.io/howto-gimp/)
 - [HowTo Linux](https://xantorohara.github.io/howto-linux/)
 - [HowTo Spotfire](https://xantorohara.github.io/howto-spotfire/)

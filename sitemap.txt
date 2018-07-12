@@ -4,6 +4,7 @@ https://xantorohara.github.io/datasheets/
 https://xantorohara.github.io/docbook/
 https://xantorohara.github.io/gifts/
 https://xantorohara.github.io/harmonica/
+https://xantorohara.github.io/howto-docker/
 https://xantorohara.github.io/howto-gimp/
 https://xantorohara.github.io/howto-linux/
 https://xantorohara.github.io/howto-spotfire/
