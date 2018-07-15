@@ -6,11 +6,8 @@ https://xantorohara.github.io/docbook/
 https://xantorohara.github.io/docker-notes/
 https://xantorohara.github.io/gifts/
 https://xantorohara.github.io/harmonica/
-https://xantorohara.github.io/howto-gimp/
-https://xantorohara.github.io/howto-spotfire/
-https://xantorohara.github.io/howto-spring/
-https://xantorohara.github.io/linux-notes/
 https://xantorohara.github.io/led-matrix-editor/
+https://xantorohara.github.io/linux-notes/
 https://xantorohara.github.io/metalock/
 https://xantorohara.github.io/musicbox/
 https://xantorohara.github.io/pkmx/
