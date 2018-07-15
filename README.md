@@ -8,7 +8,6 @@
 ## Projects
 
 - [Boolex - Boolean expression visualizer](https://xantorohara.github.io/boolex/)
-- [Datasheets](https://xantorohara.github.io/datasheets/)
 - [DocBook](https://xantorohara.github.io/docbook/)
 - [Docker notes](https://xantorohara.github.io/docker-notes/)
 - [Gifts](https://xantorohara.github.io/gifts/)

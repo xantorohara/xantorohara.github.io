@@ -1,7 +1,6 @@
 https://github.com/xantorohara
 https://xantorohara.github.io/
 https://xantorohara.github.io/boolex/
-https://xantorohara.github.io/datasheets/
 https://xantorohara.github.io/docbook/
 https://xantorohara.github.io/docker-notes/
 https://xantorohara.github.io/gifts/
