@@ -9,11 +9,9 @@
 
 - [Boolex - Boolean expression visualizer](https://xantorohara.github.io/boolex/)
 - [DocBook](https://xantorohara.github.io/docbook/)
-- [Docker notes](https://xantorohara.github.io/docker-notes/)
 - [Gifts](https://xantorohara.github.io/gifts/)
 - [Harmonica](https://xantorohara.github.io/harmonica/)
 - [LED Matrix Editor](https://xantorohara.github.io/led-matrix-editor/)
-- [Linux notes](https://xantorohara.github.io/linux-notes/)
 - [Metalock](https://xantorohara.github.io/metalock/)
 - [MusicBox](https://xantorohara.github.io/musicbox/)
 - [Pkmx - Optimal blocks layout](https://xantorohara.github.io/pkmx/)
