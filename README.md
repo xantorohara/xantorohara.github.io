@@ -27,4 +27,3 @@
     - [Resolutions](https://xantorohara.github.io/webtools/resolutions/)
 - [Xameleon](https://xantorohara.github.io/xameleon/)
 - [XenoHarmonica](https://xantorohara.github.io/xenoharmonica/)
-
